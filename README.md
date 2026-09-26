@@ -35,7 +35,7 @@ Software Engineering undergraduate currently working as an **AI Engineering Inte
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=redjsun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=redjsun&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=redjsun&theme=tokyonight&utcOffset=-3" alt="Commits per hour"/>
 </div>
 
 <br>
