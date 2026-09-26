@@ -13,7 +13,7 @@
 
 ## About
 
-Software Engineering undergraduate currently working as an **AI Engineering Intern**, developing **RAG architectures** with vector databases and building scalable APIs with **Python**. I also develop **chatbots**.
+Software Engineering undergraduate currently working as an **AI Engineering Intern**, developing **RAG architectures** with vector databases and building scalable APIs with **Python**. I also develop **behavior trees** for autonomous robots competing in the **Very Small Size Soccer (VSSS)** league.
 
 **Focus areas:** RAG, MLOps, AIOps and full-stack development.
 
@@ -41,9 +41,9 @@ Software Engineering undergraduate currently working as an **AI Engineering Inte
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/redjsun/redjsun/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/redjsun/redjsun/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/redjsun/redjsun/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/redjsun/redjsun/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/redjsun/redjsun/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/redjsun/redjsun/output/pacman-contribution-graph.svg">
 </picture>
 
 ## Connect
